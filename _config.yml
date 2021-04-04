@@ -1,23 +1,23 @@
 # basic options
 title: Basic Visual Blog
-author: SmilodonCub
+author: Bonnie Cooper
 email: smilodon138@gmail.com
 description: basic visual - basic neuroscience - basic data science - basic bonnie
 github_username:  SmilodonCub
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "about"
 
   # generate social links in footer
   social_links:
-    github:  SmilodonCub
-    facebook:  smilodoncub
-    instagram:  smilodoncub
-    linkedin:  bonnie-cooper-ph-d  
-    mastodon:  instance.url/@smilodonCub
-    rpubs:  SmilodonCub
+    github: SmilodonCub
+    facebook: smilodoncub
+    instagram: smilodoncub
+    linkedin: bonnie-cooper-ph-d  
+    mastodon: instance.url/@smilodonCub
+    rpubs: SmilodonCub
 
 # Build settings
 markdown: kramdown
