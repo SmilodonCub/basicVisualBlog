@@ -21,6 +21,6 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 # for more options see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
