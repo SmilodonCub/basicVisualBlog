@@ -5,22 +5,8 @@ email: smilodon138@gmail.com
 description: basic visual - basic neuroscience - basic data science - basic bonnie
 github_username:  SmilodonCub
 
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "about"
-
-  # generate social links in footer
-  social_links:
-    github: SmilodonCub
-    facebook: smilodoncub
-    instagram: smilodoncub
-    linkedin: bonnie-cooper-ph-d  
-    mastodon: instance.url/@smilodonCub
-    rpubs: SmilodonCub
-
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 
 # for more options see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
