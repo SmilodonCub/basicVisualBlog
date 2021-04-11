@@ -5,16 +5,15 @@ layout: page
 
 
 <div class = "row">
-  
 <div class = "col-md-4">
    
-<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/profilepic.jpg" width="80" /></p> 
+<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/profilepic.jpg" width="200" /></p> 
 
 </div>
   
 <div class = "col-md-8">  
    
-## Hello, my name is Bonnie Cooper, PhD.
+## Hello, my name is Bonnie Cooper, PhD.  
 I'm a Visual Neuroscientist with one eye on Data Science and the other on UX Research  
 
 </div>
