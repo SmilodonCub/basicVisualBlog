@@ -3,9 +3,22 @@ title: About Me
 layout: page
 ---
 
+
+<div class = "row">
+  
+<div class = "col-md-4">
+   
+<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/descartes2.png" width="672" /></p> 
+
+</div>
+  
+<div class = "col-md-8">  
+   
 ## Hello, my name is Bonnie Cooper, PhD.
-I'm a Visual Neuroscientist with one eye on Data Science and the other on UX Research
-***
+I'm a Visual Neuroscientist with one eye on Data Science and the other on UX Research  
+
+</div>
+</div>
 
 Intro
 -----
