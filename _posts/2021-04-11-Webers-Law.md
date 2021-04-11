@@ -1,4 +1,4 @@
-<img src="descartes.png" width="100%" height="100%" />
+<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/descartes2.png" width="672" /></p>
 
 ## An Introduction to Weber’s Law
 
