@@ -8,7 +8,7 @@ layout: page
   
 <div class = "col-md-4">
    
-<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/descartes2.png" width="672" /></p> 
+<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/profilepic.jpg" width="80" /></p> 
 
 </div>
   
