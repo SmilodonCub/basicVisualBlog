@@ -6,5 +6,6 @@ title: "A Great First Post"
 # This is it:
 ## Start my bloggy McBlogface 
 ### with a pic of the two goodest boys:
-{% include figure.html img="doggos.jpg" width="50%" %}
+<p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/doggos.jpg" width="672" /></p>
+
 
