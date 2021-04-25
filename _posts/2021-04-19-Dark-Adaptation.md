@@ -1,4 +1,4 @@
-<img src="cajal.png" width="100%" height="100%" />
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/cajal.png)
 
 <div style="text-align: right">
 
