@@ -7,6 +7,6 @@ github_username:  SmilodonCub
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 
 # for more options see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
