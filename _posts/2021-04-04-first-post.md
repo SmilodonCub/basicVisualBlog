@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "A Great First Post"
+thumbnail-img: /assets/img/doggos.jpg
+tags: [doggos]
 ---
 
 # This is it:
