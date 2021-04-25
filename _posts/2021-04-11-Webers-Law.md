@@ -1,3 +1,12 @@
+---
+layout: post
+title: Weber's Law
+subtitle: Linear Relationships in Psychophysics and how to Model them with `R` in the tidyverse
+cover-img: /assets/img/descartes2.png
+thumbnail-img: /assets/img/descartes2.png
+tags: [R, psychophysics, perception]
+---
+
 <p><img src="https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/images/descartes2.png" width="672" /></p>
 
 ## An Introduction to Weber’s Law
