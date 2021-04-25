@@ -3,7 +3,7 @@ title: Receptive Field Sizes of Retinal Ganglion Cells
 subtitle: using linear regression to demonstrate a physiological difference between retinal gagnlion cell classes using a classic data set
 ---
 
-<img src="retina_xsec.png" width="100%" height="100%" />
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/retina_xsec.png)
 
 <div style="text-align: right">
 
