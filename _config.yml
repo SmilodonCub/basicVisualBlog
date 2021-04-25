@@ -9,4 +9,13 @@ github_username:  SmilodonCub
 markdown: kramdown
 theme: minima
 
-# for more options see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# Display post-excerpts on the Home Page
+show_excerpts: true
+
+#add social media
+minima:
+  social_links:
+    github: SmilodonCub
+    facebook: smilodoncub
+    instagram: gremlindoge
+    linkedin: bonnie-cooper-ph-d
