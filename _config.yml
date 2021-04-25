@@ -1,13 +1,21 @@
 # basic options
 title: Basic Visual Blog
+tagline:  "Basic vision science concepts conveyed through data science tools"
 author: Bonnie Cooper
 email: smilodon138@gmail.com
 description: basic visual - basic neuroscience - basic data science - basic bonnie
 github_username:  SmilodonCub
+linkedin_link:  https://www.linkedin.com/in/bonnie-cooper-ph-d/
 
 # Build settings
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Display post-excerpts on the Home Page
 show_excerpts: true
