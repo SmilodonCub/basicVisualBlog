@@ -86,7 +86,7 @@ ggplot( data = cornsweet_df, aes( x = x, y = y, col = factor( Exp ) ) ) +
         y = expression( paste( "Log ", Delta, "L (ft.-lamberts)" ) ), color = 'Increment Threshold' )
 ```
 
-![](webers_law_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/webers_law_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
     In the figure above, the observer’s jnd ( Log *Δ*L, y-axis) is
 plotted as a function of the stimulus intensity (Log L, x-axis). We see
@@ -119,7 +119,7 @@ cornsweet_lms %>%
         y = expression( paste( "Log ", Delta, "L (ft.-lamberts)" ) ) )
 ```
 
-![](webers_law_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/webers_law_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
     We can see that Tasks 1 & 2 have greater deviations from the fitted
 regression line, but let’s get a better look by plotting the residuals
@@ -136,7 +136,7 @@ cornsweet_lms %>%
   labs( title = "Residuals", x = "Log L (ft.-lamberts)", y = expression( "Residuals" ) )
 ```
 
-![](webers_law_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/webers_law_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
     The data for Task 3 does not extend into the same lower intensity
 range (\<-3) as Task 1 & 2 where their residuals are greatest. As a
@@ -156,7 +156,7 @@ cornsweet_R2 <- cornsweet_df %>%
 cornsweet_R2
 ```
 
-![](webers_law_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/webers_law_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
     The *R*<sup>2</sup> values are all very close to 1 indicating a very
 good linear fit, especially considering that these measurements were
