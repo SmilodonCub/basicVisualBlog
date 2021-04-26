@@ -61,7 +61,7 @@ glimpse( darkAdapt )
     ## $ Log_I        <dbl> 8.26, 7.58, 7.07, 6.80, 6.37, 6.19, 6.00, 5.92, 5.80, 5.7…
 
 Visualizing the results with `ggplot`:
-![](Dark_Adaptation_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/Dark_Adaptation_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
     The figure above shows the results for 3 participants for Hecht,
 Haig & Chase’s dark adaptation experiment. If we look at the data series
@@ -128,7 +128,7 @@ fit_rodsA <- augment( fit_rods )
 ```
 
 Visualizing the results with `ggplot`:
-![](Dark_Adaptation_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/Dark_Adaptation_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
     The fitted curves above shows rather convincingly how the retina
 trades off reliance onto rods over cones during dark adaptation.

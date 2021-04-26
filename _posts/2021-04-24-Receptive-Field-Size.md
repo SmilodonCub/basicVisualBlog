@@ -69,7 +69,7 @@ output of approximately 1 million RGCs. That reduces the number of axons
 by two orders of magnitude!
 
 <center>
-![](retina_circuitry.png) [Image
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/retina_circuitry.png) [Image
 credit](https://www.researchgate.net/publication/279237071_State-of-the-Art_Report_3D_structure_and_motion_multimodal_perception)
 </center>
 
@@ -139,8 +139,9 @@ ggplot( data = Macaque_RGCs, aes( x = Eccentricity, y = Radius, col = Class) ) +
   xlab( 'Eccentricity (deg)' )
 ```
 
-![](RGC_RFsize_files/figure-markdown_github/unnamed-chunk-3-1.png) The
-figure above plots receptive field center radius for M and P RGCs. We
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/RGC_RFsize_files/figure-markdown_github/unnamed-chunk-3-1.png) 
+
+The figure above plots receptive field center radius for M and P RGCs. We
 can see a clear difference between the two distributions.  
 Here we visualize box plots of the Radius and Eccentricity distributions
 for both cells classes
@@ -161,7 +162,7 @@ p2 <- ggplot( data = Macaque_RGCs, aes( x = Class, y = Eccentricity ) ) +
 grid.arrange( p2, p1, ncol = 2 )
 ```
 
-![](RGC_RFsize_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/RGC_RFsize_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 From the box plots above we observe:
 
@@ -208,7 +209,7 @@ summary( RGC_lm )
 plot( RGC_lm )
 ```
 
-![](RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-1.png)![](RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-2.png)![](RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-3.png)![](RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-4.png)
+![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-1.png)![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-2.png)![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-3.png)![](https://raw.githubusercontent.com/SmilodonCub/basicVisualBlog/main/assets/img/RGC_RFsize_files/figure-markdown_github/unnamed-chunk-7-4.png)
 
 Performing a linear regression on the data yields a significant fit with
 an *R*<sup>2</sup> value that explains \~78% of the variance in the
